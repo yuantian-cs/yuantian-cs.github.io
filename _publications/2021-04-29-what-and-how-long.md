@@ -6,6 +6,6 @@ excerpt: ''
 date: 2021-04-29
 venue: 'ACM Transactions on Information Systems'
 paperurl: ''
-citation: 'Yuan Tian, Ke Zhou and Dan Pelleg. (2021). &quot; What and How Long:.&quot; <i>ACM Transactions on Information Systems</i>.'
+citation: 'Yuan Tian, Ke Zhou and Dan Pelleg. (2021). &quot; What and How Long: Prediction of Mobile App Engagement.&quot; <i>To appear in ACM Transactions on Information Systems</i>.'
 ---
 **Yuan Tian**, Ke Zhou and Dan Pelleg. (2021). "What and how long: Prediction of Mobile App Engagement ." <i> To appear in ACM Transactions on Information Systems</i>.
