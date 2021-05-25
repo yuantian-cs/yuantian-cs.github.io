@@ -1,5 +1,5 @@
 ---
-title: "Cohort Modeling Based AppCategory Usage Prediction"
+title: "Cohort Modeling Based App Category Usage Prediction"
 collection: teaching
 permalink: 
 type: "Full Paper"
