@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "What and How Long: Prediction of Mobile App Engagement"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: ""
+permalink: 
+venue: ""
+date: 2021-04-29
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Yuan Tian**
+
 
 Heading 1
 ======
