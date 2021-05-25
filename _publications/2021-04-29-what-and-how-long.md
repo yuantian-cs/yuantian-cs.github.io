@@ -2,7 +2,7 @@
 title: "What and how long: Prediction of Mobile App Engagement "
 collection: publications
 permalink: /publication/2021-04-29-what-and-how-long
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2021-04-29
 venue: 'ACM Transactions on Information Systems'
 paperurl: ''
