@@ -3,7 +3,7 @@ title: "Identifying Tasks from Mobile App Usage Patterns"
 collection: teaching
 type: "Full Paper"
 permalink: https://dl.acm.org/doi/abs/10.1145/3397271.3401441?casa_token=hA5WcoxKhtgAAAAA:knRHzxjZw9Zx2AkKlqxCE6C18LMT2e8cnrJeKl7s3IbrEj0FdDWgENACpUolUz3gTNylCsKzJ6RQ5Q
-venue: "SIGIR (acceptance rate: 21\%)"
+venue: "SIGIR (acceptance rate: 21)"
 date: 2020-07-15
 location: "Xi'an, China"
 ---
