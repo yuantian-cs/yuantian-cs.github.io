@@ -1,5 +1,5 @@
 ---
-title: "What and how long: "
+title: "What and how long: Prediction of Mobile App Engagement "
 collection: publications
 permalink: /publication/2010-10-01-what-and-how-long
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
@@ -12,4 +12,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation:Yuan Tian, Ke Zhou and Dan Pelleg. (2021). "What and how long: App Engagement Prediction." <i>ACM Transactions on Information Systems</i>. 1(2).
+Recommended citation:Yuan Tian, Ke Zhou and Dan Pelleg. (2021). "What and how long: Prediction of Mobile App Engagement ." <i> To appear in ACM Transactions on Information Systems</i>.
