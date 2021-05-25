@@ -1,13 +1,11 @@
 ---
-title: "What and How Long: Prediction of Mobile App Engagement"
+title: "Identifying Tasks from Mobile App Usage Patterns"
 collection: teaching
 permalink: 
-type: "Journal Paper"
-venue: "to appear in ACM Transactions on Information Systems (Q1 Journal) "
-date: 2021-04-29
-location: "New York, US"
+type: "Full Paper"
+venue: "SIGIR (accepatance rate: 21) "
+date: 2021-07-15
+location: "China"
 ---
 
-**Yuan Tian**, Ke Zhou and Dan Pelleg. "What and How Long: Prediction of Mobile App Engagement." ACM Transactions on Information Systems (TOIS). (2021). To appear. 
-
-
+**Yuan Tian**, Ke Zhou, Mounia Lalmas, and Dan Pelleg. "Identifying Tasks from Mobile App Usage Patterns." In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 2357-2366. 2020.
