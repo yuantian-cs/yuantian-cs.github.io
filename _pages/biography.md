@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Biography"
+permalink: /biography/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications, 2012
+* M.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications, 2015
+* Ph.D in Computer Science, University of Nottingham, 2021 (expected)
 
-Work experience
+Professional Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
