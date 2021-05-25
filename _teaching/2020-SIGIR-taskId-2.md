@@ -3,7 +3,7 @@ title: "Identifying Tasks from Mobile App Usage Patterns"
 collection: teaching
 permalink: 
 type: "Full Paper"
-venue: "ACM SIGIR (accepatance rate: 21 \%) "
+venue: "ACM SIGIR (accepatance rate: 21 ) "
 date: 2021-07-15
 location: "China"
 ---
