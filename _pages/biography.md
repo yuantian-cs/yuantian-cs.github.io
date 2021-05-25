@@ -10,9 +10,14 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications, 2012
-* M.E. in Computer Science and Technology, Beijing University of Posts and Telecommunications, 2015
-* Ph.D in Computer Science, University of Nottingham, 2021 (expected)
+*University of Nottingham, Nottingham, UK
+  * **Ph.D.** in Computer Science, 2021 (expected)
+*Beijing University of Posts and Telecommunications (BUPT), Beijing, China
+  * **M.E.** and **B.E.** in Computer Science and Technology, 2008--2015
+
+
+
+
 
 Professional Experience
 ======
