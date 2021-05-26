@@ -21,7 +21,7 @@ Education
 Professional Experiences
 ======
 * May 2017 - Present: **Yahoo! Labs** Collaborative Research Program, London, United Kingdom
-  * Established long-term cooperation with Yahoo! Research on my PhD work for inferring users' needs and tasks on mobile devices.  By leveraging the large-scale dataset of real-life app usage logs, we proposed and implemented:
+  * Established a long-term cooperation with Yahoo! Research on my PhD work for inferring users' needs and tasks on mobile devices.  By leveraging the large-scale dataset of real-life app usage logs, we proposed and implemented:
     * a framework for tackling the novel app engagement prediction problem on simultaneously predicting both what app user will use and how long the user will stay on that app
     * an enhanced app usage prediction model based on the user cohort modelling approach
     * task detection models based on supervised machine learning classifiers with various features and discovered common mobile task types that span multiple apps based on the clustering approach
