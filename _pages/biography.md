@@ -10,10 +10,10 @@ redirect_from:
 
 Education
 ======
-*University of Nottingham, Nottingham, UK, 2017--2021 (expected)
+*  **University of Nottingham**, Nottingham, UK, 2017--2021 (expected)
   * **Ph.D.** in Computer Science
  
- *Beijing University of Posts and Telecommunications (BUPT), Beijing, China, 2008--2015
+ * **Beijing University of Posts and Telecommunications** (BUPT), Beijing, China, 2008--2015
   * **M.E.** and **B.E.** in Computer Science and Technology
 
 
