@@ -9,7 +9,7 @@ redirect_from:
 
 
 <address>
-Computer Science Building <br />  Wollaton Road, Nottingham, <br /> United Kingdom, NG8 1BB
+Computer Science Building <br />  Wollaton Road, Nottingham <br /> United Kingdom, NG8 1BB
 </address>
 
 Email: first_name.last_name [at] nottingham.ac.uk
