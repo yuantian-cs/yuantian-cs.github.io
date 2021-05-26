@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-*  **University of Nottingham**, Nottingham, UK, 2017 -- 2021 (expected)
+*  **University of Nottingham**, Nottingham, United Kingdom, 2017 -- 2021 (expected)
    * **Ph.D.** in Computer Science
  
  * **Beijing University of Posts and Telecommunications** (BUPT), Beijing, China, 2008 -- 2015
@@ -20,7 +20,7 @@ Education
 
 Professional Experiences
 ======
-* 2017 - Present: **Yahoo! Labs** Collaborative Research Program, London, UK
+* May 2017 - Present: **Yahoo! Labs** Collaborative Research Program, London, United Kingdom
   * Established long-term cooperation with Yahoo! Research on my PhD work for inferring users' needs and tasks on mobile devices.  By leveraging the large-scale dataset of real-life app usage logs, we proposed and implemented:
     * a framework for tackling the novel app engagement prediction problem on simultaneously predicting both what app user will use and how long the user will stay on that app
     * an enhanced app usage prediction model based on the user cohort modelling approach
@@ -28,14 +28,11 @@ Professional Experiences
     * demographics prediction models based on users? mobile app tasks with deep learning models (i.e.CNN and LSTM)
   
   
+* Aug 2015  -- Nov 2016: **Dartmouth College** Research Assistant, NH, United States
+  * Implemented the online learning of GMM (Gaussian Mixture Models) in Matlab
+  * Optimized the online learning GMM method by several strategies (i.e., stratified sampling, SVD constraints, and scalar covariance update function) for simulating the pixel intensities of the imagein a more accurate and robust fashion.
+  * Teaching Assistant in Courses : Problem Solving via Object-Oriented Programming; Machine Learningand Statistical Data Analysis; Computer Networks; Full-stack Web Development
   
-  
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-
 Skills
 ======
 * Skill 1
