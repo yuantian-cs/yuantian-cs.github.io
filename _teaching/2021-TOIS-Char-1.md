@@ -9,6 +9,8 @@ location: "New York, US"
 ---
 
 
+**Tian, Yuan**, Ke Zhou and Dan Pelleg. "Characterization and Prediction of Mobile Task."  submitted to ACM Transactions on Information Systems (TOIS). 
+
 
 
 
