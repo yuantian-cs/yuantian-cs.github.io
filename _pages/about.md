@@ -15,7 +15,7 @@ redirect_from:
 
 Recent News
 ======
-* 04/2021:  Our paper "_What and How long: Prediction of Mobile App Engagement_" is accepted by **ACM Transactions on Information Systems (TOIS)** .
+* 04/2021:  Our paper "_What and How long: Prediction of Mobile App Engagement_" is accepted by **ACM Transactions on Information Systems (TOIS)** [arXiv](https://arxiv.org/abs/2106.01490).
 * 07/2020:  Received the SIGIR Student Travel Grant and attended the SIGIR 2020. Presented our work "_Identifying Tasks from Mobile App Usage Patterns_" on the conference. 
 * 07/2020:  Attended the UMAP 2020 and presented our work "_Cohort Modeling Based App Category Usage Prediction_" on the conference. 
 * 05/2020:  Our paper "_Identifying Tasks from Mobile App Usage Patterns_" is accepted by **ACM SIGIR** Conference on Research and Development in Information Retrieval (**SIGIR'20**). [PDF](https://dl.acm.org/doi/pdf/10.1145/3397271.3401441)
